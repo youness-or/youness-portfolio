@@ -13,10 +13,7 @@ const Footer = () => {
       <footer className="py-12 border-t border-white/10 bg-[#17022B] px-6">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="flex items-center gap-2">
-            <div className="w-6 h-6 bg-primary rounded flex items-center justify-center">
-              <Rocket className="text-white w-4 h-4" />
-            </div>
-            <span className="text-lg font-extrabold text-white uppercase tracking-tighter">Creative<span className="text-primary">Pro</span></span>
+            <span className="text-lg font-extrabold text-white uppercase tracking-tighter">Younes<span className="text-primary">Or</span></span>
           </div>
           <p className="text-slate-500 text-sm">
             © {new Date().getFullYear()} Younes Or. All rights reserved.

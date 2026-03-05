@@ -36,7 +36,7 @@ const Hero = () => {
             Available for Projects
           </div>
           <h1 className="text-5xl md:text-7xl font-extrabold leading-[1.1] tracking-tight text-white">
-            Hey Ther! <br /> <span className="text-primary">Younes Or</span> Here
+            Hey Dear! <br /> <span className="text-primary">Younes Or</span> Here
           </h1>
           <TypingRoles />
           <p className="text-lg md:text-xl text-slate-400 max-w-xl leading-relaxed">
