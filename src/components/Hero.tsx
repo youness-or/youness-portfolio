@@ -73,7 +73,7 @@ const Hero = () => {
           <div className="relative aspect-square rounded-[30%_70%_70%_30%/30%_30%_70%_70%] overflow-hidden bg-[#17022B] border-2 border-white/10 group-hover:border-primary/50 transition-all duration-700 shadow-2xl">
             <img
 
-              src="/images/younesor.png"
+              src="/youness-portfolio/images/younesor.png"
               alt="Younes Or"
               className="w-full h-full object-cover scale-110 group-hover:scale-100 transition-all duration-700"
               referrerPolicy="no-referrer"

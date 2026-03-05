@@ -19,7 +19,7 @@ const Footer = () => {
             <span className="text-lg font-extrabold text-white uppercase tracking-tighter">Creative<span className="text-primary">Pro</span></span>
           </div>
           <p className="text-slate-500 text-sm">
-            © {new Date().getFullYear()} Creative Pro. All rights reserved.
+            © {new Date().getFullYear()} Younes Or. All rights reserved.
           </p>
           <div className="flex gap-6">
             {[

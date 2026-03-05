@@ -33,7 +33,7 @@ export const projects: Project[] = [
     title: "Dr. Sara Dentist",
     category: "Medical Portfolio",
     year: "2026",
-    image: "/images/dr_sara_dentist.png",
+    image: "/youness-portfolio/images/dr_sara_dentist.png",
     github: "https://youness-or.github.io/Dr-Sara-Dentist-Website-portfolio/",
   },
   {
@@ -41,7 +41,7 @@ export const projects: Project[] = [
     title: "E-bike Ecommerce",
     category: "E-commerce",
     year: "2026",
-    image: "/images/ebike_ecommerce.png",
+    image: "/youness-portfolio/images/ebike_ecommerce.png",
     github: "https://youness-or.github.io/Ebike-website/",
   },
 ];
