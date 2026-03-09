@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { useState, useEffect } from "react";
 
-const roles = ["Full Stack Dev", "Software Engineer", "AI Speaker"];
+const roles = ["Full Stack Dev", "Software Engineer", "Prompt Engineer"];
 
 export default function TypingRoles() {
   const [index, setIndex] = useState(0); // Which word are we on?
