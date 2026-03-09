@@ -26,7 +26,7 @@ const About = () => {
                 I'm a Younes 22 years old Full Stack Developer and Ai speaker with 3 years of experience making web's and apps
               </p>
               <p>
-                My philosophy is rooted in the belief that great design is invisible—it should feel like a natural extension of the user's intent. I don't just push pixels; I dive deep into user psychology.
+                I’m currently studying programming in Pigier At Morocco, but I’ve always leaned into a self-driven approach—focusing on personal growth and taking full ownership of the products I build
               </p>
             </div>
           </motion.div>
