@@ -40,7 +40,7 @@ const Navbar = () => {
               href="#contact" 
               className="bg-primary hover:bg-primary/90 text-white px-6 py-2.5 rounded-lg text-sm font-bold transition-all transform hover:scale-105"
             >
-              Hire Me
+              Resume
             </a>
           </div>
   
