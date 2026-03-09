@@ -40,7 +40,7 @@ const Hero = () => {
           </h1>
           <TypingRoles />
           <p className="text-lg md:text-xl text-slate-400 max-w-xl leading-relaxed">
-            I'm a multi-disciplinary designer specializing in high-end digital products and brand identities that stand out in the modern market.
+            I'm a Developer multi-disciplinary specializing in high-end digital products and brand identities that stand out in the modern market.
           </p>
           <div className="flex flex-wrap gap-4 pt-4">
             <motion.a
