@@ -23,10 +23,10 @@ const About = () => {
             <h3 className="text-4xl md:text-5xl font-extrabold text-white leading-tight">Driven by curiosity, defined by <span className="text-primary">purpose</span>.</h3>
             <div className="space-y-4 text-slate-400 text-lg leading-relaxed">
               <p>
-                I'm a Younes 22 years old Full Stack Developer and Ai speaker with 3 years of experience making web's and apps
+                I'm Younes, a 22-year-old Full Stack Developer and AI Speaker with 2 years of experience crafting modern, high-performance web applications and e-commerce platforms. 
               </p>
               <p>
-                I’m currently studying programming in Pigier At Morocco, but I’ve always leaned into a self-driven approach—focusing on personal growth and taking full ownership of the products I build
+                I’m currently pursuing a BAC+2 at Ecole Pigier in Morocco, following my Bachelor in Physical Science from Zoulikha Nassiri. Through roles like my Editor-picker work at Marjane, I've cultivated a self-driven approach—focusing on problem-solving, intuitive design, and taking full ownership of the digital products I build.
               </p>
             </div>
           </motion.div>

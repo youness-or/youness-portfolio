@@ -24,8 +24,8 @@ const Contact = () => {
               </p>
               <div className="space-y-6">
                 {[
-                  { icon: <Mail />, text: "younes@example.com" },
-                  { icon: <Phone />, text: "+212 777 777 777" },
+                  { icon: <Mail />, text: "younesourrais360@gmail.com" },
+                  { icon: <Phone />, text: "+212 774 83 69 6" },
                   { icon: <MapPin />, text: "Kenitra, Morocco" }
                 ].map((item, i) => (
                   <div key={i} className="flex items-center gap-4 group cursor-pointer">

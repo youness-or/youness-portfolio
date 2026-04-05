@@ -59,6 +59,16 @@ const Hero = () => {
             >
               Get in Touch
             </motion.a>
+            <motion.a
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              href="/youness-portfolio/youness_resume.pdf"
+              download
+              target="_blank"
+              className="bg-white/10 hover:bg-white/20 border border-white/20 text-white px-8 py-4 rounded-xl text-lg font-bold transition-all"
+            >
+              Download CV
+            </motion.a>
           </div>
         </motion.div>
 
